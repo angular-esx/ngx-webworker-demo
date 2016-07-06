@@ -1,0 +1,17 @@
+:host() {
+    display: block;
+    color: white;
+}
+
+.color-blue {
+    background-color: blue; 
+}
+
+.color-red {
+    background-color: red; 
+}
+
+.state-disabled {
+    opacity: .5;
+    cursor: not-allowed;
+}
